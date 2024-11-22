@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Shixuan Liu"
   pronouns         : # example: "she/her"  
-  bio              : Senior undergrad student, DS-Eng @ Umich, ECE @ SJTU # "Short biography for the left-hand sidebar"
+  bio              : Senior undergrad student,<br>DS-Eng @ Umich, ECE @ SJTU # "Short biography for the left-hand sidebar"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
