@@ -16,5 +16,5 @@ My research interests lie in artificial intelligence and trustworthy AI. Recentl
 
 News
 ======
-- **2024.10:**
-- **2024.09:**
+- **2024.10:** Two papers accepted by NeurIPS 2024 workshop!
+- **2024.09:** Our work _"Dattri: A Library for Efficient Data Attribution"_ is accepted as a spotlight presentation at NeurIPS 2024!
