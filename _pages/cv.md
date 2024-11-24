@@ -16,15 +16,15 @@ Education
 
 Research experience
 ======
-* 03.2024-present: Undergrad Researcher
+* 03.2024 - present: Undergrad Researcher
   * **TRAIS**, University of Illinois Urbana-Champaign
   * Advisor: [Jiaqi Ma](https://jiaqima.github.io/)
 
-* 01.2024-present: Undergrad Researcher
+* 01.2024 - present: Undergrad Researcher
   * **FORESEER Group**, University of Michigan
   * Advisor: [Qiaozhu Mei](https://umich-foreseer.github.io/)
 
-* 08.2023-present: Undergrad Researcher
+* 08.2023 - present: Undergrad Researcher
   * **MLiNS Lab**, University of Michigan
   * Advisor: [Todd Hollon](https://mlins.org/)
 
@@ -33,7 +33,7 @@ Work experience
 <!-- * 11.2022-present: Course Design Assistant
   * **University of Michigan**, Ann Arbor, MI -->
 
-* 08.2022-09.2022: Tech Intern
+* 08.2022 - 09.2022: Tech Intern
   * **Publicis Groupe**, Shanghai, China
   * Duties includes: Data, website management
   
