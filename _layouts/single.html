@@ -28,8 +28,8 @@ layout: default
         <header>
           {% if page.title == '[CV](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)' %}
             <p class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-          {% elsif page.title == '[CV](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)' %}
-            <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          {% elsif page.title %}
+            <p class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</p>
           {% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
