@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at University of Michigan, major in Data Science. Concurrently, I am also dual majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. During my undergrad, I am fortunate to be advised by Dr. [Todd Hollon](https://mlins.org/), [Qiaozhu Mei](https://umich-foreseer.github.io/) and [Jiaqi Ma](https://jiaqima.github.io/).
+I am a senior undergraduate student at University of Michigan, majoring in Data Science. Concurrently, I am also dual majoring in Electrical and Computer Engineering at Shanghai Jiao Tong University. During my undergrad, I am fortunate to be advised by Dr. [Todd Hollon](https://mlins.org/), [Qiaozhu Mei](https://umich-foreseer.github.io/) and [Jiaqi Ma](https://jiaqima.github.io/).
 
 My research interests lie in artificial intelligence and trustworthy AI. Recently, my research focuses on natural language processing and multimodal deep learning, with an emphasis on trustworthiness, interpretability, and efficiency. In particular, I am interested in two broad directions:
 

@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV [here](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)
-
 Education
 ======
 * B.S. in Data Science, University of Michigan, 2025 (Expected)
@@ -50,6 +48,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+[📄](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)
   
 <!-- Talks
 ======
