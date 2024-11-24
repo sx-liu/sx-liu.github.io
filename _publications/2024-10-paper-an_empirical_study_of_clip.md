@@ -4,8 +4,8 @@ collection: publications
 category: workshops
 permalink: /publication/2024-10-paper-an_empirical_study_of_clip
 excerpt: '**multimodal representation learning**, **visual representation learning**, **CLIP fine-tuning**'
-date: # 2024-10-30
-venue: 'FITML @ Neurips 2024'
+date: 2024-10-30
+venue: 'FITML @ Neurips'
 paperurl: 'http://sx-liu.github.io/files/2024-10-paper-an_empirical_study_of_clip.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---

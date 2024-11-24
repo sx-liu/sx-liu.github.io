@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024-09-paper-dattri_a_library_for_efficient
 excerpt: '**data attribution**, **data-centric AI**, **benchmark**'
-date: # 2024-02-17
-venue: 'Neurips 2024'
+date: 2024-11-13
+venue: 'Neurips'
 paperurl: 'http://sx-liu.github.io/files/2024-09-paper-dattri_a_library_for_efficient.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
