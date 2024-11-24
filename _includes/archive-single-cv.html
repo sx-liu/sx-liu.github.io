@@ -8,7 +8,7 @@
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-  link here
+  <p>link here</p>
 {% else %}
   {% assign title = post.title %}
 {% endif %}
