@@ -1,5 +1,6 @@
 ---
 title: "An empirical study of CLIP fine-tuning with similarity clusters"
+authors: "author1"
 collection: publications
 category: workshops
 permalink: /publication/2024-10-paper-an_empirical_study_of_clip
