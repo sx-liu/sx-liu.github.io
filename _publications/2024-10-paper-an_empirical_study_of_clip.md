@@ -1,6 +1,6 @@
 ---
 title: "An empirical study of CLIP fine-tuning with similarity clusters"
-authors: "author1"
+authors: "**Shixuan Liu**, Yiwei Lyu, Honglak Lee, Todd C. Hollon"
 collection: publications
 category: workshops
 permalink: /publication/2024-10-paper-an_empirical_study_of_clip

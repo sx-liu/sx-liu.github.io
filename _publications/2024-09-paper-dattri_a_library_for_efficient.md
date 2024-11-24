@@ -1,6 +1,6 @@
 ---
 title: "_dattri_: A Library for Efficient Data Attribution"
-authors: "author1"
+authors: "Junwei Deng, Ting Wei Li, Shiyuan Zhang, **Shixuan Liu**, Yijun Pan, Hao Huang, Xinhe Wang, Pingbang Hu, Xingjian Zhang, Jiaqi Ma"
 collection: publications
 category: conferences
 permalink: /publication/2024-09-paper-dattri_a_library_for_efficient
