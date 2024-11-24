@@ -3,7 +3,7 @@ title: "An empirical study of CLIP fine-tuning with similarity clusters"
 collection: publications
 category: workshops
 permalink: /publication/2024-10-paper-an_empirical_study_of_clip
-excerpt: # 'This paper is about fixing template issue #693.'
+excerpt: '**multimodal representation learning**, **visual representation learning**, **CLIP fine-tuning**'
 date: 2024-02-17
 venue: 'FITML @ Neurips 2024'
 paperurl: 'http://sx-liu.github.io/files/2024-10-paper-an_empirical_study_of_clip.pdf'
