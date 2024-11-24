@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Data Science, University of Michigan, 2025 (Expected)
+* B.S. in Electrical and Computer Engineering, GitHub University, 2025 (Expected)
+
+Research experience
+======
+* 03.2024-present: Undergrad Researcher
+  * **TRAIS**, University of Illinois Urbana-Champaign
+  * Advisor: [Jiaqi Ma](https://jiaqima.github.io/)
+
+* 01.2024-present: Undergrad Researcher
+  * **FORESEER Group**, University of Michigan
+  * Advisor: [Qiaozhu Mei](https://umich-foreseer.github.io/)
+
+* 08.2023-present: Undergrad Researcher
+  * **MLiNS Lab**, University of Michigan
+  * Advisor: [Todd Hollon](https://mlins.org/)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- * 11.2022-present: Course Design Assistant
+  * **University of Michigan**, Ann Arbor, MI -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08.2022-09.2022: Tech Intern
+  * **Publicis Groupe**, Shanghai, China
+  * Duties includes: Data, website management
   
 Skills
 ======
@@ -47,13 +52,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
