@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Data Science, University of Michigan, 2025 (Expected)
-* B.S. in Electrical and Computer Engineering, GitHub University, 2025 (Expected)
+* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2025 (Expected)
 
 Research experience
 ======
