@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV" # "CV [here](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+CV [here](https://drive.google.com/file/d/1QAWzr5ifUCuS7A2fShKlHZs13V4fQWOW/view?usp=sharing)
 
 Education
 ======
