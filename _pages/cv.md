@@ -39,12 +39,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, C++, C, MATLAB, JavaScript, MySQL, LaTeX, etc.
+* Frameworks: Pytorch, TensorFlow, Transformers, DGL, OpenCV, etc.
+* Deep Learning: VLM, LLM, GAN, Diffusion Model, RNN, CNN, etc.
 
 Publications
 ======
