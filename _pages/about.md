@@ -21,6 +21,6 @@ Before my Ph.D. journey, I received my B.S.E. in Data Science from the Universit
 
 News
 ======
-- **2025.08** Start the PhD journey at UIUC!
+- **2025.08:** Start the PhD journey at UIUC!
 - **2024.10:** Two papers accepted by NeurIPS 2024 workshop!
 - **2024.09:** Our work _"Dattri: A Library for Efficient Data Attribution"_ is accepted as a spotlight presentation at NeurIPS 2024!
