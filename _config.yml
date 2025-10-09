@@ -21,7 +21,7 @@ repository               : "sx-liu/sx-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Shixuan Liu"
   pronouns         : # example: "she/her"  
   bio              : Ph.D. student,<br>CS @ UIUC # "Short biography for the left-hand sidebar"
