@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/) advised by Prof. [Jiaqi Ma](https://jiaqima.github.io/). My research interests lie in machine learning and data-centric artificial intelligence (AI). Recently, my research focuses
+I am a first-year Ph.D. student at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), advised by Prof. [Jiaqi Ma](https://jiaqima.github.io/). My research interests lie in machine learning and data-centric artificial intelligence (AI). Recently, my research focuses
 on data attribution methods and their applications to large language models (LLMs). In particular, I am interested in: 1) understanding how training data influence model training and 2) improving the data-efficiency and trustworthiness of LLMs.
 
 Before my Ph.D. journey, I received my B.S.E. in Data Science from the University of Michigan and B.E. in Electrical and Computer Engineering from Shanghai Jiao Tong University, and I was fortunate to be advised by Prof. [Jiaqi Ma](https://jiaqima.github.io/), [Todd Hollon](https://mlins.org/) and [Qiaozhu Mei](https://umich-foreseer.github.io/).
