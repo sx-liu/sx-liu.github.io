@@ -243,6 +243,12 @@
     white-space: nowrap;
   }
 
+  /* keep wrapped lines aligned after the icon */
+  .author__text {
+    display: inline-block;
+    vertical-align: top;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
